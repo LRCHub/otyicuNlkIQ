@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "RestartSmile",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2025-12-23T08:48:40.831386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RestartSmile",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": true,
+      "path": "select/01_RestartSmile_メガテラ・ゼロ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RestartSmile",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_RestartSmile_メガテラ・ゼロ.txt"
+    }
+  ]
+}
